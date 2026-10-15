@@ -1,0 +1,89 @@
+{
+  "fetched_at": "2026-09-24T19:34:41.102241+00:00",
+  "assets": {
+    "liquid_fund": {
+      "one_year_return_pct": -1.49,
+      "three_year_cagr_pct": -2.21,
+      "annualized_volatility_pct": 8.61,
+      "max_drawdown_pct": -36.65
+    },
+    "short_duration_debt": {
+      "one_year_return_pct": -5.11,
+      "three_year_cagr_pct": 6.22,
+      "annualized_volatility_pct": 14.71,
+      "max_drawdown_pct": -33.56
+    },
+    "corporate_bond_fund": {
+      "one_year_return_pct": -11.97,
+      "three_year_cagr_pct": -0.48,
+      "annualized_volatility_pct": 14.64,
+      "max_drawdown_pct": -41.59
+    },
+    "gilt_fund": {
+      "one_year_return_pct": -0.16,
+      "three_year_cagr_pct": 2.72,
+      "annualized_volatility_pct": 3.15,
+      "max_drawdown_pct": -6.37
+    },
+    "balanced_advantage": {
+      "one_year_return_pct": -2.13,
+      "three_year_cagr_pct": 11.14,
+      "annualized_volatility_pct": 15.76,
+      "max_drawdown_pct": -37.31
+    },
+    "nifty50_index": {
+      "one_year_return_pct": -7.12,
+      "three_year_cagr_pct": 6.45,
+      "annualized_volatility_pct": 16.03,
+      "max_drawdown_pct": -38.42
+    },
+    "flexi_cap": {
+      "one_year_return_pct": -3.9,
+      "three_year_cagr_pct": 13.01,
+      "annualized_volatility_pct": 11.88,
+      "max_drawdown_pct": -31.2
+    },
+    "nifty_next50_index": {
+      "one_year_return_pct": 4.14,
+      "three_year_cagr_pct": 16.93,
+      "annualized_volatility_pct": 17.88,
+      "max_drawdown_pct": -41.09
+    },
+    "international_index": {
+      "one_year_return_pct": 49.53,
+      "three_year_cagr_pct": 38.47,
+      "annualized_volatility_pct": 22.72,
+      "max_drawdown_pct": -30.35
+    },
+    "midcap_fund": {
+      "one_year_return_pct": 6.52,
+      "three_year_cagr_pct": 16.42,
+      "annualized_volatility_pct": 14.91,
+      "max_drawdown_pct": -29.36
+    },
+    "smallcap_fund": {
+      "one_year_return_pct": 6.71,
+      "three_year_cagr_pct": 11.97,
+      "annualized_volatility_pct": 15.11,
+      "max_drawdown_pct": -40.26
+    },
+    "gold_etf": {
+      "one_year_return_pct": 34.21,
+      "three_year_cagr_pct": null,
+      "annualized_volatility_pct": 21.95,
+      "max_drawdown_pct": -24.44
+    },
+    "gold_fund": {
+      "one_year_return_pct": -2.75,
+      "three_year_cagr_pct": 5.25,
+      "annualized_volatility_pct": 6.44,
+      "max_drawdown_pct": -21.18
+    },
+    "bitcoin": {
+      "one_year_return_pct": -25.36,
+      "three_year_cagr_pct": 47.61,
+      "annualized_volatility_pct": 39.34,
+      "max_drawdown_pct": -53.06
+    }
+  }
+}
